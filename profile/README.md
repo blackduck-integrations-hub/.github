@@ -14,9 +14,9 @@ Welcome to the Black Duck CI/CD Integrations samples repository. It contains com
                                                                                                                                                                                                                                          
 For questions and support, please refer to the [Black Duck Documentation](https://documentation.blackduck.com/category/cicd_integrations).
 
-Using the Black Duck Security Scan Action with Black Duck SCA [Using the Black Duck Security Scan Action with Black Duck SCA Documentation (https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-blackduck.html)
+Using the Black Duck Security Scan Action with Black Duck SCA (https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-blackduck.html)
 
-Using the Black Duck Security Scan Action with Coverity [Using the Black Duck Security Scan Action with Coverity](https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-coverity.html)
+Using the Black Duck Security Scan Action with Coverity (https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-coverity.html)
 
 Using the Black Duck Security Scan Action with Polaris [Using the Black Duck Security Scan Action with Polaris](https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-polaris.html)
 
