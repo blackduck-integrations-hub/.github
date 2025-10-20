@@ -18,6 +18,6 @@ Using the Black Duck Security Scan Action with Black Duck SCA (https://documenta
 
 Using the Black Duck Security Scan Action with Coverity (https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-coverity.html)
 
-Using the Black Duck Security Scan Action with Polaris [Using the Black Duck Security Scan Action with Polaris](https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-polaris.html)
+[Using the Black Duck Security Scan Action with Polaris](https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-polaris.html)
 
 
